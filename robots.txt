@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://obsidianstudiodesigns.github.io/Drakensig-Golf-Club/sitemap.xml

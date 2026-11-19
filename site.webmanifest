@@ -1,0 +1,15 @@
+{
+  "name": "Drakensig Golf Club",
+  "short_name": "Drakensig Golf",
+  "description": "A 9-hole, 18-tee bushveld golf course inside AFB Hoedspruit, Limpopo.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eae2",
+  "theme_color": "#13261c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
